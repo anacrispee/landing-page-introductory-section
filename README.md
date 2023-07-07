@@ -1,4 +1,4 @@
-# Landing page introductory section TESTE
+# Landing page introductory section
 
 Esse é meu terceiro projeto do site **Frontend Mentor**, cujo objetivo é criar uma sessão introdutória de uma landing page.
 Esse projeto faz parte de um desafio com 5 mini projetos do site [Dev Por aí](https://devporai.com.br/5-projetos-frontend-para-melhorar-suas-habilidades/).
